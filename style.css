@@ -1,0 +1,21 @@
+/* No need to touch this - used for the main canvas element */
+/************************************************************/
+
+body {
+    background: #f9f9f9;
+}
+
+.canvas {
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    height: 600px;
+    margin: 2rem auto;
+    width: 800px;
+}
+.canvas.x2 {
+    height: 1200px;
+    width: 1600px;
+}
+
+/* Add your current shot styling below */
+/***************************************/
